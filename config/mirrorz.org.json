@@ -1,8 +1,8 @@
 {
-  "url": "https://mirrorz.org",
+  "url": "https://mirror.quickso.cn/",
   "mirrors_help_url": "https://help.mirrorz.org",
-  "display": "MirrorZ.org",
-  "display_legacy": "MirrorZ.org - Legacy",
+  "display": "QuickMirrorZ",
+  "display_legacy": "QuickMirrorZ - Legacy",
   "intro": "<div><p>\"Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.\"</p><p>\"A final site for Mirror sites.\"</p></div>",
   "language": "en",
   "meta": {
@@ -140,19 +140,19 @@
     "nwafu"
   ],
   "monitor_mirrors": [
-    "https://mirrors.ustc.edu.cn/static/json/mirrorz.json",
-    "https://mirror.sjtu.edu.cn/mirrorz/siyuan.json",
-    "https://mirror.sjtu.edu.cn/mirrorz/zhiyuan.json",
-    "https://mirrors.sustech.edu.cn/mirrorz/mirrorz.json",
-    "https://mirrors.wsyu.edu.cn/.mirrorz/mirrorz.json",
-    "https://mirror.iscas.ac.cn/.mirrorz/mirrorz.json",
-    "https://linux.xidian.edu.cn/mirrors/status.json",
-    "https://mirrors.zju.edu.cn/api/mirrorz.json",
-    "https://mirrors.sdu.edu.cn/mirrorz.json",
-    "https://mirrors.scau.edu.cn/mirrorz.d.json",
+    "https://cors.quickso.cn/?"https://mirrors.ustc.edu.cn/static/json/mirrorz.json",
+    "https://cors.quickso.cn/?https://mirror.sjtu.edu.cn/mirrorz/siyuan.json",
+    "https://cors.quickso.cn/?https://mirror.sjtu.edu.cn/mirrorz/zhiyuan.json",
+    "https://cors.quickso.cn/?https://mirrors.sustech.edu.cn/mirrorz/mirrorz.json",
+    "https://cors.quickso.cn/?https://mirrors.wsyu.edu.cn/.mirrorz/mirrorz.json",
+    "https://cors.quickso.cn/?https://mirror.iscas.ac.cn/.mirrorz/mirrorz.json",
+    "https://cors.quickso.cn/?https://linux.xidian.edu.cn/mirrors/status.json",
+    "https://cors.quickso.cn/?https://mirrors.zju.edu.cn/api/mirrorz.json",
+    "https://cors.quickso.cn/?https://mirrors.sdu.edu.cn/mirrorz.json",
+    "https://cors.quickso.cn/?https://mirrors.scau.edu.cn/mirrorz.d.json",
     "https://uestclug.org/mirrors-status/mirrorz.d.json",
-    "https://mirror.lzu.edu.cn/.mirrorz.json",
-    "https://mirrors.jlu.edu.cn/_api/mirrorz.json",
-    "https://mirrors.cqupt.edu.cn/api/mirrorz.json"
+    "https://cors.quickso.cn/?https://mirror.lzu.edu.cn/.mirrorz.json",
+    "https://cors.quickso.cn/?https://mirrors.jlu.edu.cn/_api/mirrorz.json",
+    "https://cors.quickso.cn/?https://mirrors.cqupt.edu.cn/api/mirrorz.json"
   ]
 }
