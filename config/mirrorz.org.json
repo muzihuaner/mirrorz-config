@@ -140,7 +140,7 @@
     "nwafu"
   ],
   "monitor_mirrors": [
-    "https://cors.quickso.cn/?"https://mirrors.ustc.edu.cn/static/json/mirrorz.json",
+    "https://cors.quickso.cn/?https://mirrors.ustc.edu.cn/static/json/mirrorz.json",
     "https://cors.quickso.cn/?https://mirror.sjtu.edu.cn/mirrorz/siyuan.json",
     "https://cors.quickso.cn/?https://mirror.sjtu.edu.cn/mirrorz/zhiyuan.json",
     "https://cors.quickso.cn/?https://mirrors.sustech.edu.cn/mirrorz/mirrorz.json",
@@ -150,7 +150,7 @@
     "https://cors.quickso.cn/?https://mirrors.zju.edu.cn/api/mirrorz.json",
     "https://cors.quickso.cn/?https://mirrors.sdu.edu.cn/mirrorz.json",
     "https://cors.quickso.cn/?https://mirrors.scau.edu.cn/mirrorz.d.json",
-    "https://uestclug.org/mirrors-status/mirrorz.d.json",
+    "https://cors.quickso.cn/?https://uestclug.org/mirrors-status/mirrorz.d.json",
     "https://cors.quickso.cn/?https://mirror.lzu.edu.cn/.mirrorz.json",
     "https://cors.quickso.cn/?https://mirrors.jlu.edu.cn/_api/mirrorz.json",
     "https://cors.quickso.cn/?https://mirrors.cqupt.edu.cn/api/mirrorz.json"
